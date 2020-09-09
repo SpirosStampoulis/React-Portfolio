@@ -2,10 +2,10 @@
   "main": {
     "name": "Spiros Stampoulis",
     "occupation": "Web Frontend Developer ",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "description": "Web Frontend Developer by Day && Freelancer by Night.",
+    "image": "profile.jpg",
+    "bio": "My name is Spiros, I'm a Web Frontend Developer. Currently I'm working at Web International Services. ",
+    "contactmessage": "Get in touch with me to receive further details.",
     "email": "sstaboulis@gmail.com",
     "phone": "+356 999 889 02",
     "address": {
@@ -19,22 +19,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/spiros.stampoulis/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/spiros-stampoulis/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/SpirosStampoulis",
         "className": "fa fa-github"
       }
     ]
@@ -51,22 +51,16 @@
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Web International Services",
+        "title": "Web Frontend Developer",
+        "years": "January 2020 - Present",
+        "description": "Working mainly with wordpress Projects."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "60%"
       },
       {
         "name": "CSS",
@@ -77,8 +71,8 @@
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Wordpress",
+        "level": "90%"
       },
       {
         "name": "HTML5",
@@ -131,7 +125,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Spiros Stampoulis must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
