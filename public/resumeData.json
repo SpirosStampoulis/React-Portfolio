@@ -125,7 +125,7 @@
     "projects": [
       {
         "title": "Amazon Clone App",
-        "category": "Amazon Clone built with ReactJS and Strapi",
+        "category": "Amazon Clone built with ReactJS and Stripe",
         "image": "amazon-clone.png",
         "url": "https://clone-7a4f2.web.app/",
         "skills": "Javascript"
