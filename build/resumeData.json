@@ -126,14 +126,14 @@
       {
         "title": "Amazon Clone App",
         "category": "Amazon Clone built with ReactJS and Strapi",
-        "image": "whatsapp-mern.jpeg",
+        "image": "amazon-clone.png",
         "url": "https://clone-7a4f2.web.app/",
         "skills": "Javascript"
       },
       {
         "title": "Covid-19 Tracker App",
         "category": "Covid-19 tracker App built with ReactJS",
-        "image": "tiktok-mern.jpeg",
+        "image": "covid-19.png",
         "url": "https://covid-19-tracker-a8d99.web.app/"
       },
       {
