@@ -17,8 +17,8 @@ class Resume extends Component {
         </div>
       })
       var skills = this.props.data.skills.map(function(skills){
-        var className = 'bar-expand '+skills.name.toLowerCase();
-        return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
+        var className = 'MuiSvgIcon-root svg-icon MuiSvgIcon-colorPrimary'+skills.name.toLowerCase();
+        return  <div className="skill-img" ><svg key={skills.name} className={className} focusable="false" viewBox="0 0 24 24" aria-hidden="false" role="img"><path d={skills.image} ></path><title>{skills.name}</title></svg></div>
       })
     }
 
@@ -64,10 +64,9 @@ class Resume extends Component {
             <p>{skillmessage}
             </p>
 
-				<div className="bars">
-				   <ul className="skills">
+				<div className="skill-container">
+				  
 					  {skills}
-					</ul>
 				</div>
 			</div>
       </div>
